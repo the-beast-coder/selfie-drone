@@ -9,3 +9,4 @@ A Tello Drone
 
 I made this using OpenCV, Python and the djitellopy
 The video for the overview of the project:
+https://youtu.be/JI5Gd3_TVhU
