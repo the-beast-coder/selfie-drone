@@ -2,9 +2,13 @@
 
 To recreate this you would have to have the following things:
 Python 3
+\n
 pip
+\n
 djitellopy
+\n
 opencv
+\n
 A Tello Drone
 
 I made this using OpenCV, Python and the djitellopy
